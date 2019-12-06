@@ -1,4 +1,5 @@
 # PQ5: Musical Metacreation
+# Jack Beckitt-Marshall and Kevin Li
 
 # OP CS RAP
 In our rap, we talk about what recursion essentially does and why its good. We also talk about how Object-Oriented Programming works and why we need constructors.
